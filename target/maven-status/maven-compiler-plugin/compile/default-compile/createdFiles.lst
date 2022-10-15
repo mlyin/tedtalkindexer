@@ -1,0 +1,8 @@
+edu/upenn/cis/nets2120/storage/DynamoConnector.class
+edu/upenn/cis/nets2120/config/Config.class
+edu/upenn/cis/nets2120/hw1/LoadData.class
+edu/upenn/cis/nets2120/hw1/IndexTedTalkInfo.class
+edu/upenn/cis/nets2120/hw1/QueryForWord.class
+edu/upenn/cis/nets2120/hw1/files/TedTalkParser.class
+edu/upenn/cis/nets2120/hw1/files/TedTalkParser$TalkDescriptionHandler.class
+edu/upenn/cis/nets2120/storage/DynamoConnector$LocalServer.class
